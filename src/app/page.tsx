@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <CenterCard>
       <div className="text-center">
-        <h1 className="text-3xl font-bold text-gray-500 mb-4">
+        <h1 className="text-1xl font-bold text-gray-500 mb-4">
           loading...
         </h1>
         <p className="text-gray-600 mb-6">
